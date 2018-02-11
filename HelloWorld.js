@@ -8,3 +8,4 @@ function printYouName(name, age){
 }
 
 printYouName("Natalina");
+printYouName("Drizzy");
